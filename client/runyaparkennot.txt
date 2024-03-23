@@ -1,0 +1,12 @@
+
+
+just solved the issue. I was trying to run the app with ionic run android -l -c
+
+so now I run it with 
+
+ionic run android
+ 
+and off course that doesn't need livereload -l and now app works just fine
+
+
+bunu niye eklemişim idk ama dursun
