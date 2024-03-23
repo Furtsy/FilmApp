@@ -4,7 +4,7 @@ Mobil uygulama ionic, Api ise express + mongo ile yapılmış jwt auth sistemli 
 Kısaca insanların izleme listelerini görebiliyorsunuz, film beğenip yorum atabiliyorsunuz(onay sistemi var),  yönetici iseniz film ekleyebiliyorsunuz ekstradan puanlayabiliyorsunuz v.s v.s okul ödevi için yaptığım için fazla anlam çıkarmayın
 
 # Uygulama içerisi Resimler
-- ![Anasayfa](images/anasayfa.png) *Dünyanın en tatlı kuşu 
+- ![Anasayfa](images/Anasayfa.png) *Dünyanın en tatlı kuşu 
 - ![Menu](images/menu.png)
 
 # Diyagram
